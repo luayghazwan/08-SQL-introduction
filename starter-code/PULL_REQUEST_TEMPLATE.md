@@ -8,7 +8,7 @@
   3. Installed middleware body-parser to Parse incoming request bodies before my handlers (Command $ npm install body-parser)
   4. SQL to update an existing record.
   5. Get each value from the request body
-  6. Created an SQL query to delete a record
+  6. Created an SQL query to delete a record.
   7. Comments added to each function in Article.js
 
 #### Checklist (before submitting, fill in each set of square brackets with an 'x')
