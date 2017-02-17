@@ -12,5 +12,8 @@
     "express": "^4.13.3",
     "body-parser": "^1.15.2",
     "pg": "^6.1.2"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
   }
 }
